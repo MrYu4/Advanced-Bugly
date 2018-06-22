@@ -1,6 +1,6 @@
 #bugly进阶01-集成bugly时的相关参数
-[个人github](https://github.com/MrYu4)
-[CSDN博客](https://blog.csdn.net/ecjtuacm_yuewei)
+[个人github][https://github.com/MrYu4]
+[CSDN博客][https://blog.csdn.net/ecjtuacm_yuewei]
 ##前言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugly的集成十分的简单，在代码中只需要简单的一个语句就可以轻松[集成](https://bugly.qq.com/docs/user-guide/instruction-manual-ios/?v=20170912151050)：
 ```
