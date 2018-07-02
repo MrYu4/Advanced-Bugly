@@ -1,5 +1,13 @@
 #获取ImageView的触摸点所对应的UIImage的坐标
 
+<!-- MarkdownTOC -->
+
+- 功能描述
+- 实现前分析
+- 打赏
+
+<!-- /MarkdownTOC -->
+
 ##功能描述
 
 在imageview上触摸图片，求对应UIImage的触摸点。
@@ -60,3 +68,12 @@
     return imgTouchPoint;
 }
 ```
+
+&nbsp;
+&nbsp;
+&nbsp;
+##打赏
+![支付宝](https://github.com/MrYu4/MyUploadPicture/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.png?raw=true)
+
+![微信](https://github.com/MrYu4/MyUploadPicture/blob/master/%E5%BE%AE%E4%BF%A1.png?raw=true)
+
