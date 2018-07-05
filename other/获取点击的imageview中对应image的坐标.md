@@ -10,7 +10,7 @@
 
 ##功能描述
 
-在imageview上触摸图片，求对应UIImage的触摸点。
+在imageview上触摸图片，求对应UIImage的触摸点。
 
 ##实现前分析
 
@@ -18,7 +18,7 @@
 
 ![pic1](https://github.com/MrYu4/MyUploadPicture/blob/master/图片触摸点.png?raw=true)
 
-(蓝色区域为imageview的区域，当我触摸红点时可以轻易的获取该点在imageview上的坐标(71.666656,120.000000)，然而这并不代表该点在UIImage的坐标也是如此的)
+(蓝色区域为imageview的区域，当我触摸红点时可以轻易的获取该点在imageview上的坐标(71.666656,120.000000)，然而这并不代表该点在UIImage的坐标也是如此的)
 
 ```Objective-C
 - (CGPoint)getTouchPointOnImageWithImageView:(UIImageView *)imageView
@@ -69,11 +69,7 @@
 }
 ```
 
-&nbsp;
-&nbsp;
-&nbsp;
+
 ##打赏
-![支付宝](https://github.com/MrYu4/MyUploadPicture/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.png?raw=true)
 
-![微信](https://github.com/MrYu4/MyUploadPicture/blob/master/%E5%BE%AE%E4%BF%A1.png?raw=true)
-
+![打赏](https://github.com/MrYu4/MyUploadPicture/blob/master/%E6%94%AF%E4%BB%98%E5%90%88%E5%B9%B6.jpg?raw=true)
