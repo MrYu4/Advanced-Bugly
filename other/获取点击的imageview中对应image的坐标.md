@@ -18,7 +18,11 @@
 
 ![pic1](https://github.com/MrYu4/MyUploadPicture/blob/master/图片触摸点.png?raw=true)
 
+<<<<<<< HEAD
 (蓝色区域为imageview的区域，当我触摸红点时可以轻易的获取该点在imageview上的坐标(71.666656,120.000000)，然而这并不代表该点在UIImage的坐标也是如此的)
+=======
+(蓝色区域为imageview的区域，当我触摸红点时可以轻易的获取该点在imageview上的坐标(71.666656,120.000000)，然而这并不代表该点在UIImage的坐标也是如此的)
+>>>>>>> 276ea5e53df03dd2bb14aec25cc9090bf6e4d097
 
 ```Objective-C
 - (CGPoint)getTouchPointOnImageWithImageView:(UIImageView *)imageView
